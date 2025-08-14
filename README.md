@@ -128,7 +128,7 @@ Le modèle Random Forest est une méthode d'apprentissage ensembliste qui utilis
 #### Évaluation du Modèle  
 
 Cette implémentation inclut une évaluation robuste du modèle en utilisant la validation croisée. Voici les résultats des performances du modèle :   
-- **Exactitude :** 0.83  
+- **Exactitude (Accuracy):** 0.83  
 - **Rappel (Sensibilité ou TPR) :** 0.83  
 - **Précision :** 0.82  
 - **Score F1 :** 0.82    
