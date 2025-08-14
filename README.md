@@ -192,6 +192,3 @@ Les améliorations et directions futures pour ce projet incluent :
 - L'optimisation des hyperparamètres pour améliorer les performances du modèle.
 - L'incorporation de caractéristiques supplémentaires pour améliorer la précision des prédictions.
 
---- 
-
-J'espère que cette traduction vous sera utile ! Si vous avez besoin de modifications ou d'ajustements, n'hésitez pas à me le faire savoir.
